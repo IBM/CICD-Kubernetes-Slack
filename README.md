@@ -132,7 +132,7 @@ Now that your Slack app is set up, you can integrate it with your toolchain in I
 1. Select your toolchain from the list.
 1. On you toolchain overview page, click the __Add tool__ button.
 1. Type `Slack` in the search box and click the __Slack__ integration option that appears.
-1. On the __Configure Slack__ page, paste the webhook URL that you copied at the end of [Step 6]((#step-6-activate-the-slack-api)) into the __Slack webhook__ field.
+1. On the __Configure Slack__ page, paste the webhook URL that you copied at the end of [Step 6](#step-6-activate-the-slack-api) into the __Slack webhook__ field.
 1. Within the __Slack channel__ field, enter the name of the channel that you selected in Step 6 to post notifications to.
 1. In the __Slack team name__ field, enter the name of your Slack team. (To find your team name, open your Slack workspace, expand your workspace name located in the side panel, and copy the word or phrase that appears before `.slack.com`.)
 1. Click the __Create Integration__ button. Your toolchain overview page will now display your Slack integration within a __Culture__ section of the pipeline.

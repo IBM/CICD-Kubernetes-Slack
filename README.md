@@ -34,7 +34,7 @@ You need the following tools to complete the steps in this tutorial:
 1. Move into the cloned folder and run the `npm install` command to install the dependencies.
 1. Run the `node app.js` command to check that the application runs successfully on you local device.
 
-__Note:__ The project contains the Dockerfile and deployment files that you use in the next few steps, so please go through the file. This tutorial does not focus on how to write these two files, but if you want to learn more, [read our complete tutorial](https://github.com/marketplace) or [watch the video](https://www.youtube.com/watch?v=_oKqtRf0aSY). __(EDITOR NOTE: These two URLs do not work. What are the correct ones?)__
+__Note:__ The project contains the Dockerfile and deployment files that you use in the next few steps, so please go through the file. This tutorial does not focus on how to write these two files.
 
 ### Step 2. Create a Kubernetes cluster
 

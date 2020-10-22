@@ -27,10 +27,10 @@ You need the following tools to complete the steps in this tutorial:
 
 ### Step 1. Fork and clone the GitHub repository
 
-1. Open the [GitHub repository](https://github.com/mahsankhaan/CICD-in-kubernetes-service-with-integration-of-Slack-platform) that contains the sample code for this tutorial.
+1. Open the [GitHub repository](https://github.com/IBM/CICD-Kubernetes-Slack) that contains the sample code for this tutorial.
 1. Click __Fork__ from the menu bar to copy the repository into your GitHub account. You will use the URL of your forked repository in [Step 4](#step-4-configure-a-toolchain).
 1. Open your terminal and change your directory by using the `cd downloads` command (or any other directory in which you want to clone the project).
-1. Run the `git clone https://github.com/mahsankhaan/CICD-in-kubernetes.git` command.
+1. Run the `git clone https://github.com/IBM/CICD-Kubernetes-Slack.git` command.
 1. Move into the cloned folder and run the `npm install` command to install the dependencies.
 1. Run the `node app.js` command to check that the application runs successfully on you local device.
 
